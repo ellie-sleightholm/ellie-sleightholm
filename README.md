@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellie-sleightholm&label=Profile%20views&color=0e75b6&style=flat" alt="ellie-sleightholm" /> </p>
 
-- 🔜 Soon to be joining [@marqo-ai](https://github.com/marqo-ai) 🦛🚀
+- 🔜 Soon to be joining [@marqo-ai](https://github.com/marqo-ai) 🦛 🚀
 - 🌱 I’m currently developing an astrodynamics library in Rust 🦀
 - 🚀 I love sharing my love for programming and tech on both my [STEM](https://www.youtube.com/elliesleightholm) and [Coding](https://www.youtube.com/codeofthefuture) YouTube channel. 
 - ⚡ Fun fact: I use to race motocross bikes!
