@@ -5,7 +5,7 @@
 
 - 🔜 Head of Software Developer Relations at [@marqo-ai](https://github.com/marqo-ai) 🦛 🚀
 - 🌱 I’m currently developing an astrodynamics library in Rust 🦀
-- 🚀 I love sharing my love for programming and tech on both my [STEM](https://www.youtube.com/elliesleightholm) and [Coding](https://www.youtube.com/codeofthefuture) YouTube channel. 
+- 🚀 I love sharing my love for programming and technology on both my [STEM](https://www.youtube.com/elliesleightholm) and [Coding](https://www.youtube.com/codeofthefuture) YouTube channel. 
 - ⚡ Fun fact: I use to race motocross bikes!
 
 <h3 align="left">Connect with me:</h3>
