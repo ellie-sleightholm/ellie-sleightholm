@@ -13,7 +13,7 @@
 <a href="https://instagram.com/ellieinstem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ellieinstem" height="30" width="40" /></a>
 <a href="https://youtube.com/elliesleightholm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elliesleightholm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elliesleightholm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elliesleightholm" height="30" width="40" /></a>
-<a href="https://x.com/el_sleightholm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elliesleightholm" height="30" width="40" /></a>
+<a href="https://x.com/elsleightholm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elliesleightholm" height="30" width="40" /></a>
 </p>
 
 <!-- 
