@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Ellie!</h1>
+<h1 align="center">Hey there 👋 I'm Ellie</h1>
 <h3 align="center">Software Developer 👩‍💻 STEM Communicator 🚀 Cambridge Mathematics Graduate 👩‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellie-sleightholm&label=Profile%20views&color=0e75b6&style=flat" alt="ellie-sleightholm" /> </p>
